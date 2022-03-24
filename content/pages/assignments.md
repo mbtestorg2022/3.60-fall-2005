@@ -22,7 +22,7 @@ FILES
 Problem Set 1
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1))
+([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +31,7 @@ Problem Set 1
 Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2))
+([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ Problem Set 2
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4))
+([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Problem Set 4
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5))
+([PDF]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Problem Set 5
 Problem Set 6
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps6))
+([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Problem Set 6
 Problem Set 7
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7))
+([PDF]({{< baseurl >}}/resources/ps7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Problem Set 7
 Problem Set 8
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps8))
+([PDF]({{< baseurl >}}/resources/ps8))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Problem Set 8
 Problem Set 9
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps9))
+([PDF]({{< baseurl >}}/resources/ps9))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ Problem Set 9
 Problem Set 10
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps10))
+([PDF]({{< baseurl >}}/resources/ps10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ Problem Set 10
 Problem Set 11
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps11))
+([PDF]({{< baseurl >}}/resources/ps11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ Problem Set 11
 Problem Set 12
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps12))
+([PDF]({{< baseurl >}}/resources/ps12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ Problem Set 12
 Problem Set 13
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps13))
+([PDF]({{< baseurl >}}/resources/ps13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ Problem Set 13
 Problem Set 14
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps14))
+([PDF]({{< baseurl >}}/resources/ps14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ Problem Set 14
 Problem Set 15
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps15))
+([PDF]({{< baseurl >}}/resources/ps15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +148,7 @@ Problem Set 15
 Problem Set 16
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps16))
+([PDF]({{< baseurl >}}/resources/ps16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +157,7 @@ Problem Set 16
 Problem Set 17
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps17))
+([PDF]({{< baseurl >}}/resources/ps17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +166,7 @@ Problem Set 17
 Problem Set 18
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps18))
+([PDF]({{< baseurl >}}/resources/ps18))
 {{< tdclose >}}
 
 {{< trclose >}}
